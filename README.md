@@ -13,3 +13,8 @@ First, I don't know why by default it gives me so many boxes for everything.
 When I refresh it should go back to 0, it doesn't happen
 It is not sorted by ABC order
 When I select a task already done and mark it as done, it does not go below the undone one.
+
+
+
+Last Update: NOw the items in the boxes move to their right position, cheched boxes goes to the bottom
+when refresh all the boxes stayed empty but they're not supposed to stay as i should use the add button.

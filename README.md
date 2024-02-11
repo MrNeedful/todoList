@@ -18,3 +18,4 @@ When I select a task already done and mark it as done, it does not go below the 
 
 Last Update: NOw the items in the boxes move to their right position, cheched boxes goes to the bottom
 when refresh all the boxes stayed empty but they're not supposed to stay as i should use the add button.
+Also checked boxes don't clear after refresh
